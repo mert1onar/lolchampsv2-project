@@ -1,0 +1,64 @@
+
+.nav-style {
+    background-color: rgba(148, 163, 151, 0.966);
+    width: 100%;
+    height: 60px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+    
+    
+}
+
+.nav-style > .col-8 {
+    
+    font-size: 30px;
+    
+    justify-content: center;
+    padding-top: 8px;
+    
+    
+
+}
+
+.nav-style > .col-3 {
+    
+    
+    float: right;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    
+}
+
+.nav-style > .col-3 > input {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    height: 38px;
+}
+.nav-style > .col-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    height: 20px;
+    width: 50px;
+    
+    
+    
+}
+
+.nav-style > .col-1 > button {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+    margin-top: 38px;
+    
+}

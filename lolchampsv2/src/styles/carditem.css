@@ -1,0 +1,26 @@
+
+
+.col-md-4{
+    box-sizing: border-box;  
+    float: left;   
+    margin-top: 0;
+    padding: 0;
+    display: flex;
+    align-items: baseline; 
+        
+    
+}
+
+.img-style {
+    box-sizing: border-box;
+    margin: 10px;  
+    float: left;
+    
+    
+}
+
+.stats > .col > p {
+    font-size: 16px;
+    font-weight: 400;
+    
+}
